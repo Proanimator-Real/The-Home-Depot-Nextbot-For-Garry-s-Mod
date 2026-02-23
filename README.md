@@ -55,7 +55,7 @@ OR sometimes both admins and non-admins can spawn it
 
 This is a Garry’s Mod / Nextbot limitation and not intentional.
 
-👉 Please ignore the spawn menu and do not spawn it unless told to.
+👉 Please ignore the spawn menu and do not spawn it unless your admin or your told to on someones server.
 
 🧭 Troubleshooting
 
